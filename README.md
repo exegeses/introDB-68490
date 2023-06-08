@@ -1,6 +1,6 @@
 <img src="extras/headerIMG.jpg">
 
-# Curso de Introducción a las Bases de datos | código 64151
+# Curso de Introducción a las Bases de datos | código 68490
 
 <img src="https://img.shields.io/badge/MySQL-4D9EB1?style=for-the-badge&logo=mysql&logoColor=white">
 
@@ -22,3 +22,5 @@
 
 
 https://downloads.mysql.com/archives/workbench/
+
+https://dev.mysql.com/doc/refman/8.0/en/sql-statements.html
